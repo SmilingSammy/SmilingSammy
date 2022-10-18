@@ -21,6 +21,7 @@
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
+- I worked as a Data Analyst, Data Scientist.
 - I'm interested in machine learning, recommendation system and mlops.
 - Curious and always asks “Why?”
 - In order not to lose the attitude of learning, I manage Tech Blog.
@@ -28,12 +29,6 @@
 - Make unit-test a daily life.
 - Think about what kind of worst case would be.
 <br>
-
-### Experience
-- **Storelink** - Data Scientist *(Mar 2022 - Sep 2022)*
-- **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
-- **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
-<br>  
 
 ## Stack
 ### Languages
@@ -86,4 +81,12 @@ Devops
 
 ### Visualization
 <code><img alt = "Tableau" height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/tableau_logo_icon_144818.png">Tableau</code>
+-->
+
+<!--
+### Experience
+- **Storelink** - Data Scientist *(Mar 2022 - Sep 2022)*
+- **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
+- **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
+<br>  
 -->
