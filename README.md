@@ -28,7 +28,6 @@
 - I am constantly managing my health (At least 3 times a week) and diet (🐔).
 - Make unit-test a daily life.
 - Think about what kind of worst case would be.
-<br>
 
 ## Stack
 ### Languages
