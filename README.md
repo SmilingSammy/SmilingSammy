@@ -43,6 +43,9 @@
 <code><img alt = "AWS S3" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_s_icon_130997.png">AWS S3</code>
 <code><img alt = "AWS Athena" height="20" src="https://user-images.githubusercontent.com/48475824/89182480-c26c1b00-d5d0-11ea-833d-cc80ac37ad26.png">AWS Athena</code>
 
+### Visualization
+<code><img alt = "Redash" height="20" src="https://icon-icons.com/icon/redashio-logo/168870">Redash</code>
+
 ### DevOps
 <code><img alt = "Git" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">Git</code>
 <code><img alt = "AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">AWS</code>
