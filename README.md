@@ -39,7 +39,7 @@
 <code><img alt = "Tensorflow" height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">Tensorflow</code>
 
 ### Database
-<code><img alt = "MySQL" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">MySQL</code>
+<code><img alt = "MySQL" height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">MySQL</code>
 <code><img alt = "AWS S3" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_s_icon_130997.png">AWS S3</code>
 <code><img alt = "AWS Athena" height="20" src="https://user-images.githubusercontent.com/48475824/89182480-c26c1b00-d5d0-11ea-833d-cc80ac37ad26.png">AWS Athena</code>
 
