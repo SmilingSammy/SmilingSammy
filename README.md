@@ -53,7 +53,7 @@
 
 ### Document / Messenger
 <code><img alt = "Jira" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png">Jira</code>
-<code><img alt = "Notion" height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png"> Notion</code>
+<code><img alt = "Notion" height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Notion</code>
 <code><img alt = "Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png">Slack</code>
 <code><img alt = "Discord" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">Discord</code>
 <code><img alt = "Collabee" height="20" src="https://img1.daumcdn.net/thumb/C500x500.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/1jQz/image/AsnCcAN9VoXYOKAevlahH3tdvCw.png">Collabee</code>
