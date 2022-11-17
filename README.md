@@ -44,7 +44,7 @@
 <code><img alt = "AWS Athena" height="20" src="https://user-images.githubusercontent.com/48475824/89182480-c26c1b00-d5d0-11ea-833d-cc80ac37ad26.png">AWS Athena</code>
 
 ### Visualization
-<code><img alt = "Redash" height="20" src="https://icon-icons.com/icon/redashio-logo/168870">Redash</code>
+<code><img alt = "Redash" height="20" src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/62e070aa1efe5af2bd31738c_redash.png">Redash</code>
 
 ### DevOps
 <code><img alt = "Git" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">Git</code>
