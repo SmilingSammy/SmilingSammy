@@ -39,20 +39,24 @@
 <code><img alt = "Tensorflow" height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">Tensorflow</code>
 
 ### Database
-<code><img alt = "MySQL" height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">MySQL</code>
 <code><img alt = "AWS S3" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/amazon_s_icon_130997.png">AWS S3</code>
 <code><img alt = "AWS Athena" height="20" src="https://user-images.githubusercontent.com/48475824/89182480-c26c1b00-d5d0-11ea-833d-cc80ac37ad26.png">AWS Athena</code>
+<code><img alt = "BigQuery" height="20" src="https://assets.website-files.com/60c8b5ba6f2cc2a0922f9214/60d92a354f98f4b7cf5e8ffe_google-bigquery-logo-1.svg">BigQuery</code>
+<code><img alt = "MySQL" height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">MySQL</code>
 
 ### Visualization
 <code><img alt = "Redash" height="20" src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/62e070aa1efe5af2bd31738c_redash.png">Redash</code>
 
 ### DevOps
 <code><img alt = "Git" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">Git</code>
+<code><img alt = "Airflow" height="20" src="https://blog.kakaocdn.net/dn/T9P0t/btrBsvrbrJ5/5SuzL1i2zrwM5bFfaVxPhk/img.png">Airflow</code>
 <code><img alt = "AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">AWS</code>
+<code><img alt = "GCP" height="20" src="https://blog.kakaocdn.net/dn/cLgiiH/btrdeswJs4b/2Rbk7gLNQY2KkUSLI9FdN0/img.png">GCP</code>
 <code><img alt = "Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png">Linux</code>
 
 ### Document / Messenger
 <code><img alt = "Jira" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png">Jira</code>
+<code><img alt = "Confluence" height="20" src="https://play-lh.googleusercontent.com/-aex9dK8-hchgNFf5lsMCy0_9sl6kK_JIS4nh-6p3_NG9w2BwASOTRsNg-tgnONg8Q">Confluence</code>
 <code><img alt = "Notion" height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Notion</code>
 <code><img alt = "Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png">Slack</code>
 <code><img alt = "Discord" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png">Discord</code>
