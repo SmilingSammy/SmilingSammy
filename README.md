@@ -20,7 +20,7 @@
   <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
 <a href="https://smilingsammy.tistory.com/" target="_blank">
-  <img src=https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logoColor=white alt=tstory style="margin-bottom: 8px;" />
+  <img src=https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tstory&logoColor=white alt=tstory style="margin-bottom: 8px;" />
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
