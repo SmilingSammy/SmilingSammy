@@ -16,11 +16,11 @@
 <a href="https://www.instagram.com/gj.tang/" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://velog.io/@gjtang" target="_blank">
-  <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
-</a>
 <a href="https://smilingsammy.tistory.com/" target="_blank">
   <img src=https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white alt=tstory style="margin-bottom: 5px;" />
+</a>
+<a href="https://velog.io/@gjtang" target="_blank">
+  <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
 </a>
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
