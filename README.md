@@ -25,11 +25,7 @@
 
 ### Hello, I'm Hyeonseung Yang! 🇰🇷
 - I worked as a Data Analyst, Data Scientist.
-- I'm interested in machine learning, recommendation system and mlops.
 - Curious and always asks “Why?”
-- In order not to lose the attitude of learning, I manage Tech Blog.
-- I am constantly managing my health (At least 3 times a week) and diet (🐔).
-- Make unit-test a daily life.
 - Think about what kind of worst case would be.
 
 ## Stack
