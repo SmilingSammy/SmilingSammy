@@ -10,9 +10,6 @@
 <a href="https://www.linkedin.com/in/samoyed/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/gjtangg/" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.instagram.com/smiling__sammy/" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -79,6 +76,14 @@
 </table>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SmilingSammy&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- 
+Facebook
+<a href="https://www.facebook.com/gjtangg/" target="_blank">
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+-->
 
 <!-- 
 Devops 
