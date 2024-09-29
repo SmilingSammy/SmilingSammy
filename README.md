@@ -24,7 +24,7 @@
 </a>
 -->
 
-### Hello, I'm Hyeonseung Yang! 🇰🇷
+### Hello, I'm Todd! 🇰🇷
 - I worked as a Data Analyst, Data Scientist.
 - Curious and always asks “Why?”
 - Think about what kind of worst case would be.
