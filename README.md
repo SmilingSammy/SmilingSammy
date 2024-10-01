@@ -1,7 +1,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=gjtang&label=Profile%20views&color=0e75b6&style=flat)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgjTang&count_bg=%23F90736&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<!-- 
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--  
@@ -14,10 +13,12 @@
 <a href="https://www.instagram.com/smiling__sammy/" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
--->
 <a href="https://smilingsammy.tistory.com/" target="_blank">
   <img src=https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white alt=tstory style="margin-bottom: 5px;" />
 </a>
+-->
+
+
 <!-- 
 <a href="https://velog.io/@gjtang" target="_blank">
   <img src=https://img.shields.io/badge/-Velog-20c997?&style=for-the-badge&logoColor=white alt=velog style="margin-bottom: 8px;" />
@@ -29,6 +30,7 @@
 - Curious and always asks “Why?”
 - Think about what kind of worst case would be.
 
+<!-- 
 ## Stack
 ### Languages
 <code><img alt = "Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">Python</code>
@@ -81,7 +83,7 @@
 </table>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SmilingSammy&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 
 <!-- 
 Facebook
@@ -104,6 +106,4 @@ Devops
 - **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
--->
-
 -->
