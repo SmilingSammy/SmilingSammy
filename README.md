@@ -1,6 +1,7 @@
 ![Profile View](https://komarev.com/ghpvc/?username=gjtang&label=Profile%20views&color=0e75b6&style=flat)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgjTang&count_bg=%23F90736&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+<!-- 
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--  
@@ -103,4 +104,6 @@ Devops
 - **Bizdata** - Data analyst *(Jan 2019 - Mar 2022)*
 - **Bizdata** - Intern, Data analyst *(Aug 2018 - Dec 2018)* 
 <br>  
+-->
+
 -->
